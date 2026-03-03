@@ -132,15 +132,15 @@ Kami akan bantu hitungkan estimasi terbaik untuk perjalanan Anda.
   },
   {
     id: "2",
-    title: "Rental Mobil Curup Murah Mulai 200 Ribu | Lepas Kunci & Dengan Sopir",
+    title: "Rental Mobil Curup Harga Mulai 200rb | Lepas Kunci & Dengan Sopir",
     slug: "rental-mobil-curup-murah",
-    excerpt: "Layanan rental mobil di Curup dengan harga murah mulai 200 ribu per hari. Tersedia opsi lepas kunci atau dengan sopir profesional.",
+    excerpt: "Menyediakan rental mobil dengan sopir atau lepas kunci. Layanan rental mobil di Curup dengan harga murah mulai 200 ribu per hari.",
     content: `
+Menyediakan rental mobil dengan sopir atau lepas kunci.
+
 Sedang mencari rental mobil Curup murah mulai 200 ribu per hari dengan layanan terpercaya? Kami menyediakan jasa sewa mobil di Curup dengan pilihan lepas kunci maupun dengan sopir profesional, siap melayani kebutuhan perjalanan dalam kota maupun luar kota.
 
 Kami melayani area Curup dan seluruh wilayah Kabupaten Rejang Lebong dengan armada yang bersih, terawat, dan nyaman digunakan untuk berbagai keperluan.
-
-Layanan rental mobil Curup kami siap membantu berbagai kebutuhan transportasi, mulai dari perjalanan keluarga, kegiatan dinas, acara pernikahan, hingga wisata alam di wilayah Rejang Lebong. Dengan harga mulai 200 ribu per hari, Anda sudah bisa mendapatkan kendaraan yang nyaman dan terawat, baik dengan sistem lepas kunci maupun menggunakan sopir berpengalaman yang memahami rute lokal.
 
 ## 🚗 Rental Mobil Curup Lepas Kunci
 
@@ -164,19 +164,6 @@ Tidak ingin repot menyetir? Kami juga menyediakan layanan rental mobil dengan so
 - Perjalanan luar kota
 - Wisata keluarga
 
-Kami siap mengantar ke berbagai destinasi populer seperti:
-- Bukit Kaba
-- Danau Mas Harun Bastari
-- Suban Air Panas
-
-## 🚘 Layanan Antar Dalam & Luar Kota
-
-Selain penggunaan dalam kota Curup, kami juga melayani perjalanan ke Bengkulu, Lubuklinggau, Kepahiang, dan kota lainnya.
-
-Butuh kendaraan untuk perjalanan jarak jauh? Silakan hubungi kami untuk mendapatkan penawaran harga terbaik.
-
-Anda bisa juga meminta kami untuk **Antar Jemput Bandara Fatmawati ke Curup**.
-
 ## 💰 Harga Rental Mobil Curup
 
 Harga mulai dari 200 ribu per hari, dengan penyesuaian berdasarkan:
@@ -185,29 +172,19 @@ Harga mulai dari 200 ribu per hari, dengan penyesuaian berdasarkan:
 - Dalam kota atau luar kota
 - Lepas kunci atau dengan sopir
 
-Untuk informasi lengkap dan ketersediaan unit, silakan hubungi kami langsung melalui WhatsApp.
+## 📞 Hubungi Kami
 
-## 📲 Cara Booking Rental Mobil Curup
+📱 **WhatsApp**: 085268645461  
+⏰ **Jam Operasional**: 24 Jam
 
-1. Hubungi kami via WhatsApp
-2. Tentukan tanggal dan durasi sewa
-3. Pilih layanan lepas kunci atau dengan sopir
-4. Unit siap digunakan sesuai jadwal
-
-Proses cepat, aman, dan terpercaya.
-
-## 🚀 Butuh Rental Mobil Curup Sekarang?
-
-Jika Anda mencari rental mobil Curup murah mulai 200 ribu, baik untuk kebutuhan pribadi, dinas, maupun wisata, kami siap memberikan pelayanan terbaik dengan armada nyaman dan harga terjangkau.
-
-Klik tombol WhatsApp di bawah ini untuk pemesanan sekarang juga.
+**Travel Bengkulu – Rental Mobil Murah & Terpercaya!**
     `,
     image: "/images/blog/road-trip.png",
     author: "Bengkulu Transport",
     date: "2025-01-10",
     category: "Rental Mobil",
     tags: ["Rental Mobil", "Curup", "Lepas Kunci", "Dengan Sopir"],
-    readTime: "6 menit"
+    readTime: "4 menit"
   },
   {
     id: "3",
