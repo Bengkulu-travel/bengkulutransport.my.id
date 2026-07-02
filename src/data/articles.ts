@@ -112,7 +112,7 @@ Selain perjalanan lintas provinsi, kami juga melayani **layanan antar jemput Ban
 
 Silakan hubungi WhatsApp untuk konsultasi dan estimasi biaya:
 
-📞 **085268645461**
+📞 **082374497929**
 
 Sebutkan:
 - Kota tujuan
@@ -174,7 +174,7 @@ Harga mulai dari 200 ribu per hari, dengan penyesuaian berdasarkan:
 
 ## 📞 Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam
 
 **Travel Bengkulu – Rental Mobil Murah & Terpercaya!**
@@ -532,7 +532,7 @@ Travel Bengkulu menyediakan:
 
 ## Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam
 
 **Travel Bengkulu – Partner Wisata Terpercaya Anda!**
@@ -686,7 +686,7 @@ Travel Bengkulu menyediakan:
 - Rental mobil
 - Tour guide
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam
 
 **Travel Bengkulu – Partner Wisata Terpercaya!**
@@ -801,7 +801,7 @@ Air terjun alami dengan kolam untuk berenang.
 
 ## Cara Pemesanan
 
-1. **Hubungi WhatsApp**: 085268645461
+1. **Hubungi WhatsApp**: 082374497929
 2. **Informasikan**: Nomor penerbangan, waktu tiba, alamat tujuan
 3. **Konfirmasi**: Harga dan detail driver
 4. **Tunggu**: Driver akan menjemput di bandara
@@ -822,7 +822,7 @@ Ya, tersedia layanan PP dengan harga spesial.
 
 ## Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam  
 🌐 **Website**: bengkulutransport.my.id
 
@@ -952,7 +952,7 @@ Pemandangan sepanjang jalan sangat indah dengan perkebunan dan hutan tropis.
 
 ## Cara Pemesanan
 
-1. Hubungi **WhatsApp 085268645461**
+1. Hubungi **WhatsApp 082374497929**
 2. Informasikan tanggal, jam, lokasi jemput, dan tujuan
 3. Konfirmasi harga dan pembayaran
 4. Dapatkan detail driver dan kendaraan
@@ -973,7 +973,7 @@ Ya, driver kami berpengalaman dan rute sudah dikenal baik.
 
 ## Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam  
 🌐 **Website**: bengkulutransport.my.id
 
@@ -1110,7 +1110,7 @@ Agrowisata kopi dengan pemandangan perkebunan indah.
 
 ## Cara Pemesanan
 
-1. **Hubungi WhatsApp**: 085268645461
+1. **Hubungi WhatsApp**: 082374497929
 2. **Informasikan**: 
    - Nomor penerbangan
    - Waktu kedatangan
@@ -1135,7 +1135,7 @@ Ya, tersedia paket wisata Curup dengan harga spesial.
 
 ## Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam  
 📍 **Lokasi**: Bengkulu & Curup
 
@@ -1243,7 +1243,7 @@ Waktu perjalanan: 8-10 jam
 
 ## Cara Pemesanan
 
-1. Hubungi **WhatsApp 085268645461**
+1. Hubungi **WhatsApp 082374497929**
 2. Informasikan:
    - Tanggal keberangkatan
    - Jadwal yang diinginkan
@@ -1269,7 +1269,7 @@ Ya, tersedia dengan harga spesial.
 
 ## Hubungi Kami
 
-📱 **WhatsApp**: 085268645461  
+📱 **WhatsApp**: 082374497929  
 ⏰ **Jam Operasional**: 24 Jam  
 🌐 **Website**: bengkulutransport.my.id
 

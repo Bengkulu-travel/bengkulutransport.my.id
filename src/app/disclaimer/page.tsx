@@ -81,7 +81,7 @@ export default function DisclaimerPage() {
 
               <h3 className="text-lg font-semibold text-gray-900 mb-3 mt-8">7. Kontak</h3>
               <p className="text-gray-700">
-                Untuk pertanyaan lebih lanjut mengenai syarat dan ketentuan, silakan hubungi kami via WhatsApp di nomor <strong>085268645461</strong>.
+                Untuk pertanyaan lebih lanjut mengenai syarat dan ketentuan, silakan hubungi kami via WhatsApp di nomor <strong>082374497929</strong>.
               </p>
 
               <div className="mt-8 pt-8 border-t">

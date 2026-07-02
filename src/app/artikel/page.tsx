@@ -87,7 +87,7 @@ export default function ArtikelPage() {
             Hubungi kami untuk informasi lebih lanjut atau pemesanan layanan travel.
           </p>
           <a
-            href="https://wa.me/6285268645461"
+            href="https://wa.me/6282374497929"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"

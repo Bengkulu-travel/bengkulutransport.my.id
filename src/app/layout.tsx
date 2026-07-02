@@ -88,7 +88,7 @@ const jsonLd = {
   "name": "Travel Bengkulu",
   "description": "Travel Bengkulu menyediakan layanan travel antar kota, rental mobil, antar jemput bandara, dan paket wisata di Bengkulu dan sekitarnya.",
   "url": "https://bengkulutransport.my.id",
-  "telephone": "+6285268645461",
+  "telephone": "+6282374497929",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Bengkulu",

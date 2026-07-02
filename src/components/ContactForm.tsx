@@ -12,7 +12,7 @@ export default function ContactForm() {
     
     const waMessage = `Halo, saya ${name || '[Nama]'}.%0A%0ANomor HP: ${phone || '[Nomor]'}%0ALayanan: ${service || '[Layanan]'}%0A%0APesan:%0A${message || '[Pesan]'}`
     
-    window.open(`https://wa.me/6285268645461?text=${waMessage}`, '_blank')
+    window.open(`https://wa.me/6282374497929?text=${waMessage}`, '_blank')
   }
 
   return (

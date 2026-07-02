@@ -104,7 +104,7 @@ export default function PrivacyPage() {
               <div className="bg-gray-50 p-4 rounded-lg mt-3">
                 <p className="text-gray-700">
                   <strong>Travel Bengkulu</strong><br />
-                  WhatsApp: 085268645461<br />
+                  WhatsApp: 082374497929<br />
                   Website: bengkulutransport.my.id
                 </p>
               </div>
